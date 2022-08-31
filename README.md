@@ -60,3 +60,13 @@ All duplicate rows were dropped.
 ### (4) Removing outliers
 - One outlier was found in the adr column. Simply dropped it for better representation.
 
+## Exploratory Data Analysis
+Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:
+
+Bar Plot.
+Histogram.
+Scatter Plot.
+Pie Chart.
+Line Plot.
+Heatmap.
+Box Plot
