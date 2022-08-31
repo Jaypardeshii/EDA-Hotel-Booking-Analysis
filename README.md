@@ -1,5 +1,5 @@
 # Final-Hotel-Booking-Analysis
-# Hotel-Booking-Analysis-
+
 # Objective
 We are provided with a hotel bookings dataset.
 
@@ -60,6 +60,3 @@ All duplicate rows were dropped.
 ### (4) Removing outliers
 - One outlier was found in the adr column. Simply dropped it for better representation.
 
-### (5) Creating new columns
-- Created new column total_stay by adding stays_in_weekend_nights+stays_in_week_nights.
-- Created new column total_people by adding adults+children+babies.
