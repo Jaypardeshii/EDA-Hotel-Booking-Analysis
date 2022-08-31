@@ -1,4 +1,4 @@
-# Final-Hotel-Booking-Analysis
+# Hotel-Booking-Analysis
 
 # Objective
 We are provided with a hotel bookings dataset.
