@@ -63,10 +63,10 @@ All duplicate rows were dropped.
 ## Exploratory Data Analysis
 Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:
 
-Bar Plot.
-Histogram.
-Scatter Plot.
-Pie Chart.
-Line Plot.
-Heatmap.
-Box Plot
+- Bar Plot.
+- Histogram.
+- Scatter Plot.
+- Pie Chart.
+- Line Plot.
+- Heatmap.
+- Box Plot
